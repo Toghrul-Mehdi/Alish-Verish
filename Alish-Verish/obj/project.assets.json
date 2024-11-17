@@ -4012,11 +4012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victus\\source\\repos\\Alish-Verish\\Alish-Verish\\Alish-Verish.csproj",
+      "projectUniqueName": "C:\\Users\\Victus\\OneDrive\\İş masası\\Codecademy\\Alish-Verish\\Alish-Verish\\Alish-Verish.csproj",
       "projectName": "Alish-Verish",
-      "projectPath": "C:\\Users\\Victus\\source\\repos\\Alish-Verish\\Alish-Verish\\Alish-Verish.csproj",
+      "projectPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\Codecademy\\Alish-Verish\\Alish-Verish\\Alish-Verish.csproj",
       "packagesPath": "C:\\Users\\Victus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Victus\\source\\repos\\Alish-Verish\\Alish-Verish\\obj\\",
+      "outputPath": "C:\\Users\\Victus\\OneDrive\\İş masası\\Codecademy\\Alish-Verish\\Alish-Verish\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Victus\\source\\repos\\Alish-Verish\\",
+  "WorkspaceRootPath": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Codecademy\\Alish-Verish\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5566DA69-ABF9-446B-AA75-D04158FB6B29}|Alish-Verish\\Alish-Verish.csproj|c:\\users\\victus\\source\\repos\\alish-verish\\alish-verish\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5566DA69-ABF9-446B-AA75-D04158FB6B29}|Alish-Verish\\Alish-Verish.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\codecademy\\alish-verish\\alish-verish\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5566DA69-ABF9-446B-AA75-D04158FB6B29}|Alish-Verish\\Alish-Verish.csproj|solutionrelative:alish-verish\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5566DA69-ABF9-446B-AA75-D04158FB6B29}|Alish-Verish\\Alish-Verish.csproj|c:\\users\\victus\\source\\repos\\alish-verish\\alish-verish\\userservice\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5566DA69-ABF9-446B-AA75-D04158FB6B29}|Alish-Verish\\Alish-Verish.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\codecademy\\alish-verish\\alish-verish\\userservice\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5566DA69-ABF9-446B-AA75-D04158FB6B29}|Alish-Verish\\Alish-Verish.csproj|solutionrelative:alish-verish\\userservice\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5566DA69-ABF9-446B-AA75-D04158FB6B29}|Alish-Verish\\Alish-Verish.csproj|c:\\users\\victus\\source\\repos\\alish-verish\\alish-verish\\myexception\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5566DA69-ABF9-446B-AA75-D04158FB6B29}|Alish-Verish\\Alish-Verish.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\codecademy\\alish-verish\\alish-verish\\myexception\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5566DA69-ABF9-446B-AA75-D04158FB6B29}|Alish-Verish\\Alish-Verish.csproj|solutionrelative:alish-verish\\myexception\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5566DA69-ABF9-446B-AA75-D04158FB6B29}|Alish-Verish\\Alish-Verish.csproj|c:\\users\\victus\\source\\repos\\alish-verish\\alish-verish\\myexception\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5566DA69-ABF9-446B-AA75-D04158FB6B29}|Alish-Verish\\Alish-Verish.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\codecademy\\alish-verish\\alish-verish\\myexception\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5566DA69-ABF9-446B-AA75-D04158FB6B29}|Alish-Verish\\Alish-Verish.csproj|solutionrelative:alish-verish\\myexception\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,50 +32,47 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UserLogin.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Alish-Verish\\Alish-Verish\\UserService\\UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Codecademy\\Alish-Verish\\Alish-Verish\\UserService\\UserLogin.cs",
               "RelativeDocumentMoniker": "Alish-Verish\\UserService\\UserLogin.cs",
-              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Alish-Verish\\Alish-Verish\\UserService\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Codecademy\\Alish-Verish\\Alish-Verish\\UserService\\UserLogin.cs",
               "RelativeToolTip": "Alish-Verish\\UserService\\UserLogin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAcwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T19:40:46.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T19:40:46.826Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ProductNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Alish-Verish\\Alish-Verish\\MyException\\ProductNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Codecademy\\Alish-Verish\\Alish-Verish\\MyException\\ProductNotFoundException.cs",
               "RelativeDocumentMoniker": "Alish-Verish\\MyException\\ProductNotFoundException.cs",
-              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Alish-Verish\\Alish-Verish\\MyException\\ProductNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Codecademy\\Alish-Verish\\Alish-Verish\\MyException\\ProductNotFoundException.cs",
               "RelativeToolTip": "Alish-Verish\\MyException\\ProductNotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T19:12:20.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T19:12:20.908Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UserNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Alish-Verish\\Alish-Verish\\MyException\\UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Codecademy\\Alish-Verish\\Alish-Verish\\MyException\\UserNotFoundException.cs",
               "RelativeDocumentMoniker": "Alish-Verish\\MyException\\UserNotFoundException.cs",
-              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Alish-Verish\\Alish-Verish\\MyException\\UserNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Codecademy\\Alish-Verish\\Alish-Verish\\MyException\\UserNotFoundException.cs",
               "RelativeToolTip": "Alish-Verish\\MyException\\UserNotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T19:11:55.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T19:11:55.218Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Alish-Verish\\Alish-Verish\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Codecademy\\Alish-Verish\\Alish-Verish\\Program.cs",
               "RelativeDocumentMoniker": "Alish-Verish\\Program.cs",
-              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Alish-Verish\\Alish-Verish\\Program.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Codecademy\\Alish-Verish\\Alish-Verish\\Program.cs",
               "RelativeToolTip": "Alish-Verish\\Program.cs",
-              "ViewState": "AgIAACUBAAAAAAAAAAAAAM0AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAEUBAAAAAAAAAAAqwGEBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T10:35:21.908Z",
               "EditorCaption": ""
