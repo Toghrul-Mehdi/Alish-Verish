@@ -205,6 +205,7 @@ namespace Alish_Verish
 
 
                                             case "2":
+                                                decimal total_sebet = 0;
                                                 baskets = sql.Baskets.ToList();
                                                 Console.WriteLine(user_id + "-ci istifadecinin sebeti:");
                                                 Console.WriteLine();
@@ -217,10 +218,13 @@ namespace Alish_Verish
                                                         {
                                                             Console.ForegroundColor = ConsoleColor.Blue;
                                                             Console.WriteLine($"Product Name: {product.Name}");
+                                                            total_sebet += product.Price;
                                                             Console.WriteLine();
                                                         }
                                                     }
                                                 }
+                                                Console.ForegroundColor= ConsoleColor.Yellow;
+                                                Console.WriteLine("Sebetin Umumi Qiymeti: "+total_sebet);
                                                 break;
                                             case "3":
                                                 f1 = true;

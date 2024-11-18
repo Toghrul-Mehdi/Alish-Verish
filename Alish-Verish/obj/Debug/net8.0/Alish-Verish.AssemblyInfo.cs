@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Alish-Verish")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d83be3a47f5f12b95969a83feb78ba10cad23bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1f62336c7ff2e9babbfe655ea8ca18a14bc5493")]
 [assembly: System.Reflection.AssemblyProductAttribute("Alish-Verish")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Alish-Verish")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
